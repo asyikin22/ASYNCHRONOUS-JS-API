@@ -13,7 +13,8 @@
 * async/await don't replace promises but rather provide a cleaner syntax for dealing with Asynchronous function
 * I have summarized the differences in the table below:
 
-  ![image](https://github.com/asyikin22/Asynchronous-JS-API/assets/148519441/980bb2dc-f391-4dfd-bb3e-405d20e4c5b1)
+  ![image](https://github.com/asyikin22/ASYNCHRONOUS-JS-API/assets/148519441/2e2da792-4e8f-49c0-9b1b-4ebc3684e196)
+
 
 # CORS - Cross-Origin Resource Sharing
 * It is a security feature implemented by web browsers to ensure that scripts running on one website are only allowed to access resources from a different website if that website explicitly allows it. 
@@ -56,6 +57,7 @@
 * However for this one, I used error handling 'try-catch' inside the function as the program failed to fetch gif without it when I tried to do it initially.
 * I have also uploaded a new file that demonstrates its use in JavaScript.
 
-![image](https://github.com/asyikin22/Asynchronous-JS-API/assets/148519441/d0b5302b-bb14-4dc7-9850-acc2902a607c)
+![image](https://github.com/asyikin22/ASYNCHRONOUS-JS-API/assets/148519441/1714beb4-124b-40b6-be20-d58dc7715f98)
+
 
 
